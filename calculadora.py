@@ -1,2 +1,2 @@
-def soma (a,b): return a + b)
+ xtdef soma (a,b): return a + b)
 
